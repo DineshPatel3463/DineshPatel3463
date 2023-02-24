@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 ### What do I do when i get bored🤔...
 I just Pack a pair of clothes and leave for a trip⚡...<br/>
 By the way i don't get bored easily😄...
+
+
+### 📈My GitHub History!
+![Snake animation](https://github.com/DineshPatel3463/DineshPatel3463/blob/output/github-contribution-grid-snake.svg)
