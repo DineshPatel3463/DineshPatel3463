@@ -27,4 +27,4 @@ By the way i don't get bored easily😄...
 
 
 ### 📈My GitHub History!
-![Snake animation](https://github.com/DineshPatel3463/DineshPatel3463/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
