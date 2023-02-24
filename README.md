@@ -27,4 +27,6 @@ By the way i don't get bored easily😄...
 
 
 ### 📈My GitHub History!
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DineshPatel3463&show_icons=true&theme=gotham" alt="DineshPatel3463" />
+
 
