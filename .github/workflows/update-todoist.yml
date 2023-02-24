@@ -1,4 +1,4 @@
-name: Todoist Readme
+name: DineshPatel3463 README
 
 on:
   workflow_dispatch:
@@ -7,12 +7,12 @@ on:
     - cron: "* * * * *"
       
 jobs:
-  update-readme:
+  update-README:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: DineshPatel3463/todoist-readme@master
+      - uses: DineshPatel3463/DineshPatel3463-README@main
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: ""
